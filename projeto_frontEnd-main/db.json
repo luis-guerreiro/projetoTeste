@@ -1,0 +1,135 @@
+{
+  "imagens": [
+    {
+      "id": 1,
+      "nome": "Imagem 1",
+      "descricao": "Descrição",
+      "src": "https://images.unsplash.com/photo-1611916656173-875e4277bea6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400",
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "nome": "Imagem 2",
+      "descricao": "Descrição",
+      "src": "https://images.unsplash.com/photo-1611916656173-875e4277bea6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400",
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "nome": "Imagem 3",
+      "descricao": "Descrição",
+      "src": "https://images.unsplash.com/photo-1611916656173-875e4277bea6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=400",
+      "deleted": false
+    }
+  ],
+  "categories": [
+    {
+      "descricao": "x",
+      "id": 1
+    },
+    {
+      "descricao": "z",
+      "id": 3
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "string",
+      "usuario": "string",
+      "senha": "string",
+      "foto": "string",
+      "token": "ing"
+    },
+    {
+      "usuario": "yuri@gmail.com",
+      "senha": "123456789",
+      "id": 2
+    },
+    {
+      "usuario": "yuri@gmail.com",
+      "senha": "12345678",
+      "id": 3
+    },
+    {
+      "usuario": "yuri@gmail.com",
+      "senha": "12345678",
+      "id": 4
+    },
+    {
+      "usuario": "yuri@gmaiasdfasd",
+      "senha": "asdfasdfasdf",
+      "id": 5
+    },
+    {
+      "usuario": "adfasdfasdf@dfasdfasdf",
+      "senha": "asdfasdfasdf",
+      "id": 6
+    },
+    {
+      "usuario": "yuri@gma",
+      "senha": "adsfasdfasdf",
+      "id": 7
+    },
+    {
+      "usuario": "ddd@ddd",
+      "senha": "dddd",
+      "id": 8
+    },
+    {
+      "usuario": "ddddddd@dddddddd",
+      "senha": "dddddddddddddddddd",
+      "id": 9
+    },
+    {
+      "usuario": "asdfas@dfasdf",
+      "senha": "asdfasdfasdf",
+      "id": 10
+    },
+    {
+      "usuario": "yuri@gm",
+      "senha": "d",
+      "id": 11
+    },
+    {
+      "usuario": "ddd@fff",
+      "senha": "ddd",
+      "id": 12
+    },
+    {
+      "usuario": "s@s",
+      "senha": "s",
+      "id": 13
+    },
+    {
+      "usuario": "ddd@ddd",
+      "senha": "ddd",
+      "id": 14
+    },
+    {
+      "usuario": "c@ddd",
+      "senha": "ddddd",
+      "id": 15
+    },
+    {
+      "usuario": "yu@dfd",
+      "senha": "sdfsdfasdf",
+      "id": 16
+    },
+    {
+      "usuario": "asdfad@adfasd",
+      "senha": "fasdfasdfasd",
+      "id": 17
+    },
+    {
+      "usuario": "asdfasdf@dadsfa",
+      "senha": "asdfasdfasdf",
+      "id": 18
+    },
+    {
+      "usuario": "yuri@gmail.com",
+      "senha": "123456789",
+      "id": 19
+    }
+  ]
+}
